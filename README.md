@@ -17,6 +17,8 @@
 
 - 😶‍🌫️Weakness: **I am too empathetic**
 
+- Don't ask me if I can work under pressure because I can work **ONLY** under pressure :P
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wakeupwami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wakeupwami" height="30" width="40" /></a>
