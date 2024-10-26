@@ -17,7 +17,7 @@
 
 - 😶‍🌫️Weakness: **I am too empathetic**
 
-- Don't ask me if I can work under pressure because I can work **ONLY** under pressure :P
+- 🦾Strength: **I am good at team work and analytical thinking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
