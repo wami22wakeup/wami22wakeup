@@ -1,15 +1,15 @@
 
 <h1 align="center">Konnichiwa! Wamika here! (✿◠‿◠)</h1>
-<h3 align="center">I am a passionate web developer and fascinated by the potential of artificial intelligence and machine learning. I'm always excited to learn new things, work with others, and be a part of innovative projects.</h3>
+<h3 align="center">I am a passionate developer and fascinated by the potential of artificial intelligence and machine learning. I'm always excited to learn new things, work with others, and be a part of innovative projects.</h3>
 <img width="400" align="right" src="https://i.pinimg.com/originals/e3/cc/a9/e3cca9951cf7e6c356fff2c580333b22.gif" alt="working" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wami22wakeup&label=Profile%20views&color=0e75b6&style=flat" alt="wami22wakeup" /> </p>
 
 <p align="left"> <a href="https://twitter.com/wakeupwami" target="blank"><img src="https://img.shields.io/twitter/follow/wakeupwami?logo=twitter&style=for-the-badge" alt="wakeupwami" /></a> </p>
 
-- 🔭 I’m currently working on [Sentiment Analysis Chatbot](https://github.com/wami22wakeup/Sentiment-Chatbot)
+- 🔭 I’m currently working on [Online Voting System](https://github.com/wami22wakeup/Online-Voting-System)
 
-- 🌱 I’m currently learning **Angular.js**
+- 🌱 I’m currently learning **AWS cloud services**
 
 - 💬 Ask me about **python and react**
 
